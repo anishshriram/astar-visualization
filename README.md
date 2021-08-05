@@ -37,6 +37,7 @@ As allways, all functions and code was commented thoroughly for ease of understa
 Resources Used:
 - Priority Queue Intro: https://www.geeksforgeeks.org/priority-queue-set-1-introduction/
 - A* Algorithm Explanation: https://www.youtube.com/watch?v=-L-WgKMFuhE
+
 Next one really really important. Tech With Tim helped with a lot of the issues I came accross while writing this, tried to keep it as original as possible. But the visualization part credit largely goes to him / his tutorial because I have little experience with pygame
 - Visualization Tutorial (for pygame): https://www.youtube.com/watch?v=JtiK0DOeI4A
 
